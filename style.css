@@ -1,0 +1,17 @@
+a {
+    background-color: goldenrod;
+    border: indigo;
+}
+/* <strong> tag */
+strong {}
+
+/* <storng class="abc">
+    <nav class="abc"> */
+.abc {}
+strong.abc {}
+
+/* <strong id="abc"> */
+#abc {}
+a {
+    background-color: wheat;
+}
